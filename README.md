@@ -10,7 +10,10 @@
 
 ## Usage
 
-```shell script
+Example for searching two keywords: `uber`and `fx`.
+The best results appear at the end of the result list.
+
+```
 $ gearch uber fx
 
 github.com/gen0cide/cfx
