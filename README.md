@@ -10,7 +10,7 @@
 
 ## Usage
 
-```
+```shell script
 $ gearch uber fx
 
 github.com/gen0cide/cfx
